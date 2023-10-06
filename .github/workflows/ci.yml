@@ -31,8 +31,6 @@ jobs:
       # Runs a single command using the runners shell
       - name: where i am
         run: ls
-      - name: move in
-        run: cd week-4-tdd-activity-starter
 
       # Runs a set of commands using the runners shell
       - name: Run tests
